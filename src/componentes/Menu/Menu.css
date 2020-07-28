@@ -19,12 +19,11 @@
     position: fixed;
     top: 0;
     left: 0;
-    right: 0;
     padding-left: 5%;
     padding-right: 5%;
   
     background: var(--black);
-    border-bottom: 2px solid var(--primary);
+    border-bottom: 2px solid var(--primaryD);
   }
   body {
     --bodyPaddingTop: 94px;
